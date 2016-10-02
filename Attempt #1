@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kenya's Wordpress Copy</title>
+        <meta charset="utf-8" /> 
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" /> 
+        <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+   
+            <style type="text/css">
+              div 
+              .main{
+                width:960px; height:3000px; float:center; margin:1px; color=#f7f7f7;
+                       }
+              .Footer1 {height:200px; width:100; align:left; padding-right: 2px
+                       }
+              .Footer2 {height:100px; width:100; align:right;
+                       }
+              .hline { width:100%; height:1px: background #000000}
+             </style>
+   
+   
+</head>
+   
+<body>
+<div width=auto; color: #000000>
+<div class="MAIN"; padding: 15px>
+<hr>
+
+<a href="https://kenyaupgrade.wordpress.com/">HOME</a> &emsp; 
+<a href="https://kenyaupgrade.wordpress.com/blog/">RECENT POSTS</a> &emsp;
+<a href="https://kenyaupgrade.wordpress.com/contact/">CONTACT</a> &emsp; 
+
+<hr>
+
+<p><a href="https://kenyaupgrade.wordpress.com/"><img src="https://kenyaupgrade.files.wordpress.com/2016/10/wordpress-header4.png"></a></p>
+    <h1> <strong>Welcome!</strong></h1>
+
+    <P align:center>A bit about me: I’m committed to the idea of being my best self and constantly upgrading my knowledge and skills 
+      via new experiences and challenges. This blog will feature some of my interests and thoughts/advice. I make no 
+      promises to remain consistent on one topic but I’ll try to keep things interesting. <br><br>
+      10/1/2016: As someone who has recently become unemployed, I’ve decided to keep myself busy with drawing, 
+      cooking, and coding (and be keeping track of my progress here).</P>
+</div>
+</div>
+<hr>
+
+<div class="Footer1">
+<h4>RECENT GITHUB PROJECTS</h4>
+<a href="https://kenyaupgrade.wordpress.com/portfolio/wordpress-copy">Wordpress Copy Project</a><br>
+
+<h4>TOP POSTS & PAGES</h4>
+//
+</div>
+
+//division into rows
+
+<div class="Footer2">
+<h4>LATEST COOKING EXPERIMENTS</h4>
+//<a href="https://kenyaupgrade.wordpress.com/portfolio/cooking1">Breakfast of champions</a><br>
+
+<h4>RECENT POSTS</h4>
+//
+  </div>
+</div></body>
+</html>
